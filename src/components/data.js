@@ -1,0 +1,22 @@
+// export default [
+//     {
+//         id:1,
+//         name:"Naseer",
+//         Birthay:"04/09/1997",
+//     },
+//     {
+//         id:2,
+//         name:"Naseer",
+//         Birthay:"04/09/1997",
+//     },
+//     {
+//         id:3,
+//         name:"Naseer",
+//         Birthay:"04/09/1997",
+//     },
+//     {
+//         id:4,
+//         name:"Naseer",
+//         Birthay:"04/09/1997",
+//     },
+// ];
